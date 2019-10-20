@@ -1,0 +1,45 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#back_button {
+    position: fixed;
+    z-index: 100;
+    top: 70px;
+    left: 15px;
+    width: 150px;
+    height: 40px;
+    border: solid 1.5px white;
+    background: rgba(148, 194, 21, 0.4);
+    cursor: pointer;
+}
+#desktop {
+    position: fixed;
+    z-index: 100;
+    top: 70px;
+    right: 15px;
+    width: 150px;
+    height: 40px;
+    border: solid 1.5px white;
+    background: rgba(148, 194, 21, 0.4);
+    cursor: pointer;
+}
+#desktop:hover{
+    background: rgb(255, 196, 0);
+}
+#back_button:hover{
+    background: rgb(255, 196, 0);
+}
+iframe {
+    margin: 0 auto;
+    background: white;
+}

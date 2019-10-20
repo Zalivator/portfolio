@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 899 18" width="899" height="18">
+	<defs>
+		<image width="899" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4MAAAASCAMAAADWm/uzAAAAAXNSR0IB2cksfwAAAGBQTFRFAAAA//////////////////////379cx6768u7aIN7J4D////////+ufC7qge////7aIO////7qkf9ct5////760r7aIN7aMP////7J8G////////+ufA////7aMQ7J8Eps0v1QAAACB0Uk5TAAErVXB6e6jX9P8QYozkb/Rh5KlY2fXybvx3EYx58f3qbJpfAAABEUlEQVR4nO3bWQ6CQBAEUBiQRUB2QQG5/y0VEOO3Tax0pt4JOp1UZutxHCIiItu5xvNP9gnCKD7rFEdhgG4fyfiecT8RTFJ0ORDZBZ0kkUuGbiBJpckewRxdCkRWoFMkVDCE6uVbCN0SXQhEUKEzJFZxO6peuW5HDboMjBqdoAPU6CaSmFky2KCrwGjRATpAi24iiTVLBm28EX25ogN0gA7dRBLrlwyiiwBB5+cIN3QTSezOdVA1roP69TwPqsbzoH4N70VV472ofobvg5rxfVC/7X3QGeyckxnVz8mM6BaSVD68h9UGO+dFR+XzooygeukewfXfRD+h6/m/IIweMzpKP5m7qOZGVLep//43QUQwT+6gQhJOuaVaAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="section_1">
+		<use id="Rounded Rectangle 3" href="#img1" x="0" y="0" />
+	</g>
+</svg>
